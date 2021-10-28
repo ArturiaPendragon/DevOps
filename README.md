@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/46ee4737-853c-4f44-8313-b8fd534007a8/project/7b4326d8-aac7-41eb-9743-1a0c2fa05523.svg)](https://wakatime.com/badge/user/46ee4737-853c-4f44-8313-b8fd534007a8/project/7b4326d8-aac7-41eb-9743-1a0c2fa05523)
+
 ## Sommaire
 
 - [Notions]
