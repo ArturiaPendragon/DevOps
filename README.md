@@ -1,7 +1,7 @@
 ## Sommaire
 
 - [Notions]
-  - [[ 1. Mutable & Immutable | Mutable & Immutable ]]
+  - [ 1. Mutable & Immutable](/Notions/Mutable & Immutable.md)
   - [[ 2. Déclaratif vs Impératif | Déclaratif vs Impératif ]]
   - [[ 3. Microservices | Microservices ]]
   - [[ 4. Twelve Factors | Twelve Factors ]]
