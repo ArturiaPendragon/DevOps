@@ -9,5 +9,5 @@
   - [ 4. Twelve Factors](https://github.com/ArturiaPendragon/DevOps/blob/main/Notions/Twelve%20Factors.md)
   - [ 5. Statefull Vs Stateless](https://github.com/ArturiaPendragon/DevOps/blob/main/Notions/Statefull%20Vs%20Stateless.m)
   - [ 6. IAAS PAAS SAAS CAAS FAAS](https://github.com/ArturiaPendragon/DevOps/blob/main/Notions/IAAS%20PAAS%20SAAS%20CAAS%20FAAS.md)
-  - [ 7. Mesh](https://github.com/ArturiaPendragon/DevOps/blob/main/Notions/IAAS%20PAAS%20SAAS%20CAAS%20FAAS.md)
-  - [ 8. Kubernetes Vs Swarm](https://github.com/ArturiaPendragon/DevOps/blob/main/Notions/IAAS%20PAAS%20SAAS%20CAAS%20FAAS.md)
+  - [ 7. Mesh](https://github.com/ArturiaPendragon/DevOps/blob/main/Notions/Mesh.md)
+  - [ 8. Kubernetes Vs Swarm](https://github.com/ArturiaPendragon/DevOps/blob/main/Notions/Kubernetes%20Vs%20Swarm.md)
